@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>God's gracious presence with His Highness Richard Lord Protector of Great Brittain and Ireland, &amp;c. With the means to retain the same, whereby church-government, with tolleration, or no tolleration of conscience, is remonstrated.</title>
+            <author>Kaye, William.</author>
+         </titleStmt>
+         <extent>Approx. 23KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25413</idno><idno type="EEBO-CITATION">99828095</idno>
+  <idno type="VID">207563</idno>
+  <idno type="EEBO-PROQUEST">2240885818</idno>
+  
+            <idno type="STC">Wing K36</idno>
+            <idno type="PROQUEST">99828095</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828095e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25413)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207563)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1912:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>God's gracious presence with His Highness Richard Lord Protector of Great Brittain and Ireland, &amp;c. With the means to retain the same, whereby church-government, with tolleration, or no tolleration of conscience, is remonstrated.</title>
+                  <author>Kaye, William.</author>
+               </titleStmt>
+               <extent>[6], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J. Bell for Thomas Parkhurst, over-against the great conduit at the lower end of Cheapside,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+                  <note>Imperfect: Lacking all after p.10.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cromwell, Richard, 1626-1712 --  Early works to 1800.</term>
+               <term type="topical_term">Religious tolerance --  Early works to 1800.</term>
+               <term type="topical_term">Fifth Monarchy Men --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="letter">
+            <pb facs="tcp:207563:1"/>
+            <pb facs="tcp:207563:2"/>
+            <pb facs="tcp:207563:2"/>
+            <head>To the Right Honourable OFFICERS in the ARMY, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N that God hath owned you to bee such great friends to Truth and peace, in your declaring for his Highness, solemnly ingaged to defend the Re<g ref="char:EOLhyphen"/>formed Protestant Religion, in whom also the peace of the Nation is blessedly continued a<g ref="char:EOLhyphen"/>mongst us, through Christ the Prince of Truth and peace that exalted him to be his Vicegerent under him.</p>
+            <p>Therefore of all that ever you did, this is most honourable, and acceptable service,</p>
+            <p>For though God hath owned all that have formerly stood for the cause, and do continue in service or good affection, and that their sin<g ref="char:EOLhyphen"/>cerity <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> more then yours, is at all to be que<g ref="char:EOLhyphen"/>stioned.</p>
+            <p>Yet let it not displease any one, that in God's Name it may be said that God in his wisedom hath moved you to declare as be foresaid, in
+<pb facs="tcp:207563:3"/> this the Spirit of Glory and of God, in a most special measure hath rested among you.</p>
+            <p>This is not spoken for to exalt you in your own eyes, but in that sence that <hi>Peter Martyr</hi> praised God for the Lady that commended his sermon, or to Record (as <hi>Joshua</hi> set up a stone, or as Sir <hi>Francis Drake</hi> erected his Pillar) the professed affection, and ingaged faithfulness that every honest heart ought to perform to those by whom they are Commissionated, or in<g ref="char:EOLhyphen"/>trusted, as you are all by his Highness, and as all the Nation is ingaged that have, or accept of the benefit of Protection.</p>
+            <p>The Lord of Host continue his presence with you, and open all mens eyes to see how it shin's with his Highness and Right Honourable Council, as is within declared.</p>
+            <closer>
+               <signed>Written by <hi>William Kaye, Minister of Stokesley in Yorkeshire.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:207563:3"/>
+            <head>To the pretended Fifth Monarchy men, Anti-monarchists, or Gain-sayers of all Authority or dignities.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F you kept your thoughts within your breasts, and were not afraid to speak evill of Dignities, or that your swelling words were not intollerable, or that I did not the Office of a friend in this way to answer a good conscience, I had been silent, as I wish you may be. Let me tel you in God's Name hehath been very merciful unto you, a God of long forbearance; which if his goodness herein be dispised, to experience the wrath of the Lamb to you may be revealed, it's not for you to think to wrest the Prophecie of <hi>Daniel,</hi> which in the Spirit of the Apostle that commends him to the Saints and all that rule over them, is clearly inter<g ref="char:EOLhyphen"/>preted, <hi>Heb.</hi> 13. 24.</p>
+            <p>That you should oppose the present Power, how should any wise men own you, more then they did the Jesuite, that reproaching <hi>Henry</hi> the eight for a Tyrant, <hi>Edward</hi> the sixth for being a child, and <hi>Queen Elisabeth</hi> that she was a woman, which he made uncapable to rule a Kingdom, did notwith<g ref="char:EOLhyphen"/>standing forget how much he had praised <hi>Queen Mary</hi> the <hi>Alecto,</hi> because she served to make fires to burn our blessed Martyrs.</p>
+            <pb facs="tcp:207563:4"/>
+            <p>Ʋpon what ground then you are dis-affected, it is too easie to be conjectured.</p>
+            <p>How often have men caused confusion as in <hi>Ger<g ref="char:EOLhyphen"/>many, &amp;c.</hi> to destroy God's Order, which you can<g ref="char:EOLhyphen"/>not find in your form, which wants the form of sound words, that is found in the 13 of the <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> and in the First Episte of <hi>Paul to Timothy</hi> the 2. <hi>chapter.</hi> And in the first Epistle of <hi>Peter,</hi> the 2 <hi>chapter. 13, 14, 15. verses;</hi> Or in the Ar<g ref="char:EOLhyphen"/>ticle of our Christian Faith: <hi>I believe the Holy Catholick Church.</hi>
+            </p>
+            <p>To be found a true member of which you shall be at peace, and quit of all factions: Here as <hi>Monica</hi> prayed for her son <hi>Augustine,</hi> I shall be ever found, and desire all the Saints within the same <hi>Creed,</hi> to pray for you.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:207563:4"/>
+            <head>God's Gracious Presence, WITH HIS HIGHNESSE <hi>RICHARD</hi> LORD PROTECTOR REMONSRATED.</head>
+            <p>
+               <seg rend="decorInit">S</seg>O much men have ever pleased them<g ref="char:EOLhyphen"/>selves in Carnall security, whereby possession, more then profession, Lega<g ref="char:EOLhyphen"/>lity, then Morality or the hand of God hath hitherto built the rock of self<g ref="char:EOLhyphen"/>confidence. That to speak of the pre<g ref="char:EOLhyphen"/>sence of God, and the means to retain the same, hath hitherto been little thought, of and less regarded.</p>
+            <p>Yet the spirituall, that live by faith and not by sight. <hi>As the eyes of all things look up unto God to give them their food in due season.</hi>
+            </p>
+            <p>So to take notice, how God looks on <hi>Israel,</hi> whereby they have spirituall and temporall food: the Gospell and peace continued amongst them, is the true <hi>Israelites</hi> spe<g ref="char:EOLhyphen"/>ciall duty.</p>
+            <p>And though this hath respect to every man's duty.</p>
+            <p>Yet as God hereby manifests himself in relation to the plucking up and planting of a Nation, is most of all to bee laid to heart, or timely considered, God giving some a call upon this occasion.</p>
+            <pb n="2" facs="tcp:207563:5"/>
+            <p>For as God takes care to set up the Magistrate, not suf<g ref="char:EOLhyphen"/>fering any vacancy, whereby as <hi>Moses</hi> falls a sleep, he pro<g ref="char:EOLhyphen"/>claimeth arise <hi>Joshua,</hi> so ought all the people to see God in the same power, and thankfully acquiesce in submit<g ref="char:EOLhyphen"/>ting accordingly.</p>
+            <p>Which that in reference to his Highness <hi>Richard Lord</hi> PROTECTOR, this may in some good measure be truly discovered, let us in God's Name take notice.</p>
+            <p>
+               <label>I.</label>
+               <hi>Of the means by which his Highness</hi> Richard Lord PROTECTOR, <hi>was called to the said Govern<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p>
+               <hi>As Godsaid by the Prophet</hi> Samuell, <hi>I have provided mee a King, among the Sons of</hi> David, 1 Sam. 16. 1.</p>
+            <p>So God putting it into the heart of the late Parlament, to present the Petition and humble advice to his late Highness LORD PROTECTOR, of renowned Memo<g ref="char:EOLhyphen"/>rie; his Highness <hi>Richard</hi> now PROTECTOR, was Elected to succeed his Father in the said Government.</p>
+            <p>Though this might be looked upon as state policy, yet so much of the said Petition, and humble advice doth par<g ref="char:EOLhyphen"/>ticipate of the nature of heavenly revelation, as that wee find it no less wise then Religious, in that</p>
+            <p>
+               <hi>The said</hi> Lord Protector <hi>doth swear to profess the Refor<g ref="char:EOLhyphen"/>med Protestant Religion, by which means Heresiesa, nd Scisms stumble, and become too light in the Ballance.</hi>
+            </p>
+            <p>
+               <hi>How wonderfull is the long-forbearanee of our God how fixed is his eye on a people that turn their eyes from behold<g ref="char:EOLhyphen"/>ing of him. Oh blessed profession of the most holy Reformed Protestant Religion; The Old way made New in Christ to <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> people that so much turn away their eyes from beholding of him, and their feet from following of him.</hi>
+            </p>
+            <p>
+               <hi>Oh blessed profession! of the most holy Reformed Prote<g ref="char:EOLhyphen"/>stant Religion: How may all men see that it is a plant in<g ref="char:EOLunhyphen"/>deed
+<pb n="3" facs="tcp:207563:5"/> of our Heavenly Fathers planting in thoese long since fore seen and renowned Isles of the Gentiles.</hi>
+            </p>
+            <p>How immortall is the seed of grace, in that the Lord not<g ref="char:EOLhyphen"/>withstanding all the blasphemous Heresies, Christ-dividing scismes, damnable profaness, and Carnall security, in the mid<g ref="char:EOLhyphen"/>night darkness</p>
+            <p>Yet notwithstanding God is pleased as you see even to visit us oncemore from on high, and to move us, nay ingage us of his goodness, to look after the great work of Reformation.</p>
+            <p>And that all men may see, somwhat more then of an ordinary providence in raising up his Highness to up hold the same cause, and that wee might be more inform<g ref="char:EOLhyphen"/>ed thereof, of Gods good will and pleasure in his Ele<g ref="char:EOLhyphen"/>ction.</p>
+            <p>It's observable, that at, or about that juncture of time (as for as I could be informed) when the Devill put it into the heart of diverse conspirates to plot to have cut of his late Highness, and to have blown up the <hi>Chappell</hi> at <hi>White Hall.</hi>
+            </p>
+            <p>That then before the same came to light, or that the same Conspirators were discovered, the Lord was pleased to reveal himself to a servant of his, and did constrain him to de<g ref="char:EOLhyphen"/>clare.</p>
+            <p>That the Lord would defend the late <hi>Lord Protector,</hi> and bless him against all Conspirators, that should be raised against him, and raise up his seed to succeed him in the Govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p n="1">1. That in some revolution of time, this should bee fulfil<g ref="char:EOLhyphen"/>led as we see this day, hath lately given occasion to renew the remembrance of the same. Oh! how zealous is God <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> defending of his exalted servants, whom he chooseth <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his vicegerents, that if any shall murmure against <hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> in the Camp, and <hi>Aaron</hi> the Saint of the Lord, that <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as formerly, the Lord will manifest his wrathfull dis<g ref="char:EOLhyphen"/>pleasure
+<pb n="4" facs="tcp:207563:6"/> against such (let them be what they will be, they cannot be stronger then God) though they shall walk in the distructive paths of former Malignancy, in that they sin against the light, and known experiencies of God's Ele<g ref="char:EOLhyphen"/>ction, and gracious presence, which is more visibly Illu<g ref="char:EOLhyphen"/>strated, As</p>
+            <p>
+               <hi>Secondly,</hi> God's presence is, or may bee apprehended by the Power wisedom &amp; goodness that appeared in the carrying on of this great work, both at, and before the proclaiming of his Highness, and in the disposing, and conquering of all to peace, or affection; for if</p>
+            <p>First, the said power had not appeared, by which God did support and incourage in time of darkness, and weakness, I mean when his late Highness the LORD PROTECTOR departed from us; how should wee have been cast down, and troden under the feet of our enemies. <hi>If the Lord of hoast had not sent many legions of Angels mighty in power, with a charge to have thrust their swords thorow the hearts of all men whereby they did conquer more men at his Highnesses death, then ever was conquered by the said</hi> Lord Protector, <hi>though there was never in the Christian world so great a conquerer.</hi>
+            </p>
+            <p>Without this power of God, what panick fears might have seized on some which did befall the Papists at St. <hi>Maries Church</hi> in <hi>Oxford,</hi> upon the report that the Town was sired, that they could not get out for the crowd, nor yet stay within to do God any service.</p>
+            <p n="2">2. That the presence of God was not wanting, in wisdom, how may all men see, that nothing was done in relation to the first engagement, but by the counsell of him that is called the great counseller, in order to whose infinite wisedom, as Heathens use to say, <hi>A Jove principium,</hi> to
+<pb n="5" facs="tcp:207563:6"/> begin all with God; so Christians <hi>in Nomine Domini,</hi> desire that all be done according to God's approbation.</p>
+            <p>
+               <hi>Oh blessed work, the settlement of peace and blessing of our Nation! How shall the ship of the Common-wealth ever sinck that hath such steer men, that hold their Compass moved by no other loadstone, then the all seeing eye, so that what was applied to</hi> Queen Elisabeth, <hi>may now in reference to his Highnesse Counsels, wise ordering of all things at the first be applied,</hi> Nullum numen abest, si sit prudentia: <hi>They can not want Gods presence that are acted with pru<g ref="char:EOLhyphen"/>dency, for want of which, as he that forsooke the old mens Counsell, and followed the young, we couldnot have pro<g ref="char:EOLhyphen"/>spered.</hi>
+            </p>
+            <p>It's wisdome that buildeth the house, having at the first hid the foundation. In which respect there was nothing wanting, and therefore there wanted not Gods presence to make all things succeed accordingly, whereby one depth called upon an other; or hereby there was a further manifestation of,</p>
+            <p n="3">3. <hi>The goodnesse of God. In reference to his</hi> Highnesse <hi>Government.</hi>
+            </p>
+            <p>This is the ocean of mercy, Love makeing peace, Re<g ref="char:EOLhyphen"/>conciling God and man whereby the mistery that the Earth, or the World should help the woman or Church, is revealed, that though the church be gathered out of the World, they should both share together in outward pro<g ref="char:EOLhyphen"/>sperity, in being peacably united under the present Go<g ref="char:EOLhyphen"/>vernment.</p>
+            <p>This is of God, that creates our peace, that can onely put up the Sword into the scabbard, and put a Hook in<g ref="char:EOLhyphen"/>to the Nostrils of <hi>Leviathan;</hi>
+            </p>
+            <p>
+               <hi>Oh, the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bisse of the goodness of the Lord, which was hard in the mixed voice of Heaven and Earth, which made the earth to ring again when his Highness was proclaimed</hi> Lord Pro<g ref="char:EOLhyphen"/>tector
+<pb n="6" facs="tcp:207563:7"/>
+               <hi>of</hi> England, Scotland, <hi>and</hi> Ireland, <hi>&amp;c.</hi>
+            </p>
+            <p>Hereby the mistery, which was hid from the eyes of the Heathen, immagining that <hi>Jupiter</hi> descended in a Golden Fleece, we Christians do find it in God's Gracious presence, for hereby God gives us the Golden Fleece; or Riches peace and plenty, is showred upon us, through God's crea<g ref="char:EOLhyphen"/>ting of Love and peaceablenesse amongst us, which is ex<g ref="char:EOLhyphen"/>perienced in his <hi>Highnesses</hi> succession.</p>
+            <p>Oh, the said goodnesse of God, how is our soules bound up in the bundle of myrhe, how much with the bundle of Myrh is our soules refreshed, how hath the Lord compas<g ref="char:EOLhyphen"/>sed us about with his loving kindnesse, as with a shield? how securely do we lye under the Figg-tree of common protection.</p>
+            <p>Our Oxe is strong to labour, there is no leading into Captivity, nor no complaining in our streets, happy are the people that are in such a case, yea happy are the people that have the Lord for their God: But if the case had been al<g ref="char:EOLhyphen"/>tered, if wee had sown the Serpents teeth, how should wee have been the hissing, scorn, and prey of our ene<g ref="char:EOLhyphen"/>mies.</p>
+            <p>If <hi>Ephraim,</hi> had risen against <hi>Manasses,</hi> and <hi>Manasses,</hi> against <hi>Ephraim,</hi> and both against <hi>Judah,</hi> how might all people have been our enemies, and how should we have been enemies to our native Country, to have kinled a fire which would never have been Quenched.</p>
+            <p>Without question, the severity of God's wrath would have been inexpressible: God's waiting time for Refor<g ref="char:EOLhyphen"/>mation would then have been expired, and we should have filled up the measure of our iniquitie.</p>
+            <p>But the presence of God in his goodnesse as we have hard otherwise appearing, how shall we not therefore prune the Tree that it may bring forth fruits of reformati<g ref="char:EOLhyphen"/>on. This must needs be laid to heart, if we have any hearts
+<pb n="7" facs="tcp:207563:7"/> to God in us; which leades me to speake of</p>
+            <p>
+               <label>Secondly.</label> The meanes, by which Gods presence in retained,</p>
+            <q>Non minus est virtus, quam quaerere parta tueri.</q>
+            <p>It is no less virtue to keep a thing, then there was at the first required to obtain it.</p>
+            <p>For though God hath promised his presence, wee see that it is but conditionall,</p>
+            <p>Thus <hi>Solomon,</hi> was told by God himself: twice, and once by his own Father <hi>David, 1 Kings 3 chap. 13. 14. 1 Kings 9. 1, 2, 3, 4, 5, 6, 7. ver. 1 Kings 3 3, 4. ver.</hi> So that <hi>Solomon</hi> not answering Gods mind, or not performing accordingly; God would have totally taken the Kingdom from him, if he had not remembred his Cove<g ref="char:EOLhyphen"/>nant with <hi>David</hi> his Father, for whose sake he reserved, for him some rule in the Nation, 1 <hi>Kings 11. chap.</hi>
+            </p>
+            <p>And if some Kings, or superiours that ruled in the Nation, had that power in their hands, which they once neglected, to put forth to the advancement of Christian religion, were raised again from the dead, they would preach this Doctrine and Tell us plainly, that they stood against God, when they resisted his dispised Prophets, that spoke unto them, and the Preach<g ref="char:EOLhyphen"/>ers of the Gospel that stood for Reformation.</p>
+            <p>
+               <hi>And they would make all to know, that ever since God put the Ax to the root of the Tree of Antichrist, or that Antichrist was designed, or appointed of God to be destroyed, that Kings, superiour Majestrates, or Potentates, are ordained of God, as his selected instruments to do him that great service:</hi> And if there needed any witness, to witness the same, by cer<g ref="char:EOLhyphen"/>tain experience: If Queen <hi>Elizabeth</hi> were alive she would readily tell us.</p>
+            <p>That in this way, that is to throwdown Antichrist, shee was called in this way, shee was a Nursing Mother to the Church, through making it her businesse to promote Church-Government:
+<pb n="8" facs="tcp:207563:8"/> in this way she prospered and lived out all her dayes, and in this way all Supreames, (God being unchang<g ref="char:EOLhyphen"/>able in his decree) that will experience the like mercie must imitate her steps, with further improvement of the same, by way of reformation, as they have attained.</p>
+            <p>That this good, and necessary work may be done, and that all may submit to the Magistrate indeavouring the good work of Church reformation.</p>
+            <p>These Doctrinall conclusions, concerning Liberty, or no Liberty of Conscience, must be considered.</p>
+            <p>The Magistrate may tolerate any mans conscience, if he do not preach or teach his opinion, or that the opinionists be not too Numerously dangerous, Blasphemors, or Ido<g ref="char:EOLhyphen"/>laters, by which meanes the Magistrates tender Conscience, personall security, with the cause of Christian Religion, is violated, and endangered, the Magistrate ought not, (not<g ref="char:EOLhyphen"/>withstanding what is said) exempt, tollerate, or free any man, to forbeare or not constantly to heare the word preached, and keep the sabbath,</p>
+            <p>Because, though men cannot be compelled to believe yet may they, &amp; ought they to be compelled by the Magistrate to wait on the meanes of Believing, for the superiour Ma<g ref="char:EOLhyphen"/>gistrate which is the Nursing Father of the Church, is sworn to Protect, and promote the reformed protestants Religion, by the doctrine of which we are taught of God, and by daily experience, that this is the way, or meanes whereby Christ would have his Flock, Lambs, and sheep, to be sed by his pastors.</p>
+            <p>In this sence then it is the Magistrates duty, and ought to be his tender Conscience, to put his Sons, and Daugh<g ref="char:EOLhyphen"/>ters, to their spiritual Nurses to (suck even as it is prophe<g ref="char:EOLhyphen"/>cied of Kings,) the Breasts of the Church Ordinances, whereby they may be kept at the School of Christ, where all ought to waite all their life, in regard though they have
+<pb n="9" facs="tcp:207563:8"/> attained to faith they are then but best fitted to make up a Body to worship God in his Congregation, where they ought to have their pure mindes put in way of remem<g ref="char:EOLhyphen"/>brance of the grace received, that the Magistrate therefore should not suffer any to contemn God and the meanes of their own salvation, is as reasonable as it is for the Ma<g ref="char:EOLhyphen"/>gistrate, to bind a mans hands that would stab himself, for which cause <hi>Augustine</hi> saith, that superiour Magistrates, were girded about with a Sword, with a double edged Sword, to intimate that they should defend both the soules, as beforesaid, &amp; bodies of all the people by peaceably pro<g ref="char:EOLhyphen"/>tection.</p>
+            <p>Now that this ought so to be done with which Gods pre<g ref="char:EOLhyphen"/>sence usually appeareth, we may take information from <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ehemiah,</hi> who for preventing of Gods Judgments said <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto the people.</p>
+            <p>What evill thing is that you do, and profane the Sabbath; did <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot your Fathers thus, and did not God bring all this evill <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon us, and will ye bring more wrath upon Israel by profa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing the Sabbath</p>
+            <p>And though this be required of God at the hand of the Magistrate to put forth all his power to make and cause <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll to observe worship, preaching, and Sabbath, and to take <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>are that the Church have a Generall overfight, whereby <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may be united without which, Churches, are sinfully <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ismaticall.</p>
+            <p>Yet, must not all be laid upon the Magistrate, for to re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ain Gods presence, how must Ministers herein be pillars of supports, and Master builders, in putting forward by <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll their indeavours, that the Lords Table, or Christian <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ltar, may as freely be attended, as the Sacrifices were of<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ered upon the Altar, whereby Christ to day as yesterday, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay be daily communicated, in which way all our anci<g ref="char:EOLhyphen"/>ent Christians have hitherto experienced; God that dwel<g ref="char:EOLhyphen"/>leth
+<pb n="10" facs="tcp:207563:9"/> in love; his speciall presence: the people also were kept obedient, and conscientious, far from the gain-saying of <hi>Corah, &amp;c.</hi> the spirit of the Fifth pretended Monar<g ref="char:EOLhyphen"/>chists.</p>
+            <p>Yea, the Lord knowes how useful it might be (not onely to pray a little now &amp; then at Sermon times) but that some were set apart to mourn and pray continually for the pro<g ref="char:EOLhyphen"/>curing and retaining of the presence of God, the life of the truth, and peace of the Nation, under the supream Magi<g ref="char:EOLhyphen"/>strates Government; But no more of this for the present.</p>
+            <p>Furthermore, it is the duty of all Ministers, and people in case they hold any opinions contary to the supream Ma<g ref="char:EOLhyphen"/>gestrates tender Consciences, or are in a word Scismati<g ref="char:EOLhyphen"/>call, which in <hi>England</hi> is a greater sin then in some respect then to be hereticall, which made <hi>Augustine</hi> to say, a He<g ref="char:EOLhyphen"/>retick I may be, but a scismatick I never will be; Then let them consider, that Christ is not onely thereby divi<g ref="char:EOLhyphen"/>ded, and blasphemed but (as it caused <hi>Edward</hi> the 6th to weep when he was pressed to tolerate Queen <hi>Mary)</hi> it must needs be a burthen to the Mgistrate that schismes abounds, of which as any shall be found guilty, or if the Magistrate find cause to suppresse them, or command them no more to preach; then if the people would retaine Gods pre<g ref="char:EOLhyphen"/>sence, they must not disturbe the peace of the Church, within the supreame Magistrates dominion? but being per<g ref="char:EOLhyphen"/>secuted in one City, they must flee into another, and so flee out of those Magistrates Dominions, in that God doth not move their hearts to tolerate them: So much should we obey Christ, and live peaceably, for all men ought to believe, that if ever God <hi>owne their cause, he will raise some Magistrate first to owne it, because God hath decreed that the dominions of Saints, and all the great works of God, propa<g ref="char:EOLhyphen"/>gation of the Gospell, Scripture Episcopacy, or, Church-Go<g ref="char:EOLhyphen"/>vernment, downfall of Antichrist, must not be done by a proud, disorderly</hi>
+            </p>
+            <gap reason="missing" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
